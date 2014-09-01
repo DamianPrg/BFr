@@ -13,6 +13,7 @@ Simple Bitmap Font Renderer for OpenGL 3 and 4
 #### Required libs
 - GLM
 - FreeImage
+- GLEW 
 
 #### How to use
 
