@@ -470,7 +470,7 @@ namespace BFr {
         glLinkProgram(bfr_program);
         
         
-        _text.Create("AAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaá", "OpenSans12");
+        _text.Create("                                                                                           ", "OpenSans12");
         
         bfr_projection =glm::ortho(0.0f,static_cast<float>(window_width),static_cast<float>(window_height),0.0f);
         defaultFontPath = "OpenSans12";
